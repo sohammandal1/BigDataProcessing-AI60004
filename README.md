@@ -4,7 +4,7 @@ Hello Everyone! 👋
 
 I am **Soham Mandal**, a 3rd-year undergraduate student from the **Department of Electrical Engineering**, currently pursuing my **Bacholor's in Electrical Engineering** and **Master's in Signal Processing and Machine Learning**.  
 
-This repository contains all the materials I used during the course **Machine Learning for Signal Processing (EE60020)**, taught by **Prof. Debdoot Sheet** in the **Spring 2023-24 semester**.  
+This repository contains all the materials I used during the course **Big Data Procseeing (AI60004)**, taught by **Prof. Jiaul Hoque Paik** in the **Spring 2023-24 semester**.  
 
 The purpose of this repository is to serve as a helpful resource for:  
 - Students planning to take this course in future semesters.  
