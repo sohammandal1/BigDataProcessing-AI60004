@@ -2,7 +2,7 @@
 
 Hello Everyone! 👋  
 
-I am **Soham Mandal**, a 3rd-year undergraduate student from the **Department of Electrical Engineering**, currently pursuing my **Bacholor's in Electrical Engineering** and **Master's in Signal Processing and Machine Learning**.  
+I am **Soham Mandal**, a 4th-year undergraduate student from the **Department of Electrical Engineering**, currently pursuing my **Bacholor's in Electrical Engineering** and **Master's in Signal Processing and Machine Learning**.  
 
 This repository contains all the materials I used during the course **Big Data Procseeing (AI60004)**, taught by **Prof. Jiaul Hoque Paik** in the **Spring 2023-24 semester**.  
 
